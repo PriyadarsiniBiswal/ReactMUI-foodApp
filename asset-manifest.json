@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactMUI-foodApp/static/css/main.32087825.css",
+    "main.js": "/ReactMUI-foodApp/static/js/main.513e7349.js",
+    "static/js/453.b38e29b9.chunk.js": "/ReactMUI-foodApp/static/js/453.b38e29b9.chunk.js",
+    "static/media/banner1.jpg": "/ReactMUI-foodApp/static/media/banner1.d1d1827971ce39d0ec64.jpg",
+    "static/media/italian-cuisine.jpg": "/ReactMUI-foodApp/static/media/italian-cuisine.39e0a16701224f22031f.jpg",
+    "static/media/banner.jpg": "/ReactMUI-foodApp/static/media/banner.e83f625f2666fc8e2e44.jpg",
+    "static/media/coffee.jpg": "/ReactMUI-foodApp/static/media/coffee.c388deebba42b9f80863.jpg",
+    "static/media/dosa.jpg": "/ReactMUI-foodApp/static/media/dosa.b702ec563c3374754baa.jpg",
+    "static/media/manchurian.jpg": "/ReactMUI-foodApp/static/media/manchurian.ac42c5e10c5852d337f9.jpg",
+    "static/media/indian-food.jpg": "/ReactMUI-foodApp/static/media/indian-food.0d86c7751232d423c3c5.jpg",
+    "static/media/burger.jpg": "/ReactMUI-foodApp/static/media/burger.0fa6e8573062aa75fd99.jpg",
+    "static/media/biryani.jpg": "/ReactMUI-foodApp/static/media/biryani.d1657177ef5e440d5f99.jpg",
+    "index.html": "/ReactMUI-foodApp/index.html",
+    "main.32087825.css.map": "/ReactMUI-foodApp/static/css/main.32087825.css.map",
+    "main.513e7349.js.map": "/ReactMUI-foodApp/static/js/main.513e7349.js.map",
+    "453.b38e29b9.chunk.js.map": "/ReactMUI-foodApp/static/js/453.b38e29b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32087825.css",
+    "static/js/main.513e7349.js"
+  ]
+}
